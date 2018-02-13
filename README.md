@@ -20,7 +20,7 @@ For the app to function need a server that will receive the form data sent by th
 
 ## Quickstart
 
-To see the app in action you can follow the instructions below: 
+To see the app in action you can follow the instructions below:
 
 * Navigate to `https://ui.colostomy71.hasura-app.io/#login` in your browser
 
