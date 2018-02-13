@@ -27,7 +27,7 @@ To see the app in action you can follow the instructions below:
 ![app screen](https://raw.githubusercontent.com/ajind033/imad-app/master/ui/1.png "app screen")
 
 ## Tutorial
-
+ 
 Follow along for a step by step guide on developing this app
 
 ## Getting started
