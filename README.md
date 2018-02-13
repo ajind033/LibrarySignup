@@ -112,7 +112,6 @@ my-app
   ![Home view](https://i.imgur.com/M86kgTr.png "Home view")
 
 * `Article.js` is serving as a container for the other components
-* `Signup.js` is the signup form
+* `Signup.js` is the signup form 
 
   ![Signup view](https://raw.githubusercontent.com/ajind033/imad-app/master/ui/2.png "Signup view")
-
