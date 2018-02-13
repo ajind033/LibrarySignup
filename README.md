@@ -18,7 +18,7 @@ For the app to function need a server that will receive the form data sent by th
 
 * We will use Create-react-app along with the Ant Design framework to build our app. Ensure that you have Node installed on your computer, do this by running `node-v` in the terminal. If you do not have Node installed you can get it from https://nodejs.org
 
-## Quickstart
+## Quickstart 
 
 To see the app in action you can follow the instructions below:
 
