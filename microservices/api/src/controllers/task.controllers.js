@@ -51,8 +51,7 @@ var body = {
                 "phone": req.body.phone,
                 "DOB": req.body.DOB,
                 "city": req.body.city,
-                "email": req.body.email,
-                "password": req.body.password
+                "email": req.body.email
             }
         ]
     }
