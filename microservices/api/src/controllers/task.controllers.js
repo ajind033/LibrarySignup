@@ -2,7 +2,7 @@ var fetch= require('node-fetch');
 
 exports.createUser=(req,res)=>{var fetchAction =  require('node-fetch');
 
-var url = "https://auth.colostomy71.hasura-app.io/v1/signup";
+var url = "https://auth.colostomy71.hasura-app.io/v1/signup"; //Signup Url
 
 var requestOptions = {
     "method": "POST",
@@ -30,7 +30,7 @@ fetchAction(url, requestOptions)
    
     //start the data insertion
 
-var url = "https://data.colostomy71.hasura-app.io/v1/query";
+var url = "https://data.colostomy71.hasura-app.io/v1/query"; // data URL
 
 var requestOptions = {
     "method": "POST",
@@ -76,7 +76,7 @@ fetchAction(url, requestOptions)
                 
               };
     // to invoke the webhook 
-    var webHook = "https://hooks.zapier.com/hooks/catch/2957893/ziape9/";
+    var webHook = "https://hooks.zapier.com/hooks/catch/3005265/znfspc/";  // Webhook URL
    fetch(webHook, { method: 'POST', body: JSON.stringify(data) })
     .then(function(res) {
        return res.json();
