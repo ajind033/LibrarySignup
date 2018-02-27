@@ -11,4 +11,3 @@ axios.defaults.headers.post["Content-Type"] = "application/json";
 
 ReactDOM.render(<App />, document.getElementById("root"));
 registerServiceWorker();
-
