@@ -1,4 +1,4 @@
-﻿﻿# About
+﻿# About
 
 This app consists of a simple sign up form, which registers a user using the Hasura auth api. User data on sign up is stored on the hasura cluster database and also in a google sheet, if the sign up process fails appropriate message is displayed to the user.
 
