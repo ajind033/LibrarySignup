@@ -81,8 +81,9 @@ fetchAction(url, requestOptions)
     .then(function(res) {
        return res.json();
     }).then(function(json) {
-       console.log(json);
+       console.log(json); 
     });
+
 
 })
 .catch(function(error) {
