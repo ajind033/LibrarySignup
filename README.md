@@ -171,11 +171,7 @@ my-app
 
 # Contributors
 
-
 * Akash Jindal (Nodejs-Express)
   * [Github](www.github.com/ajind033)
-* Ashish Duklan  (Nodejs-Express)
-  * [Github](www.github.com/Ashish2097)
 * Sandip Saha(React)
   * [Github](www.github.com/ssahaxd)
-
